@@ -1,4 +1,4 @@
-* .Net Core 6, C# Console Application.
+* .Net 6.0, C# Console Application.
 
 
 * Applicarion running
